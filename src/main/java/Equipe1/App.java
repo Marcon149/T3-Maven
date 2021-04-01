@@ -36,6 +36,7 @@ public class App {
 
                 System.out.println("Record No - " + csvRecord.getRecordNumber());
                 System.out.println("---------------");
+                System.out.println("Juanito com seu pc de luzinha aprova esse programa");
                 System.out.println("Placa : " + placa);
                 System.out.println("Marca : " + marca);
                 System.out.println("Cor : " + cor);
