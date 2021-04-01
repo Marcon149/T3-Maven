@@ -32,6 +32,8 @@ public class App {
                 String cor = csvRecord.get(2);
                 String categoria = csvRecord.get(3);
 
+                System.out.println("João Cervo esteve aqui!!");
+
                 System.out.println("Record No - " + csvRecord.getRecordNumber());
                 System.out.println("---------------");
                 System.out.println("Placa : " + placa);
